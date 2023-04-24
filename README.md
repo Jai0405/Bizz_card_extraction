@@ -12,7 +12,7 @@ License
 
 Getting Started:
 To get started with this project, you can clone the repository to your local machine and follow the installation instructions.
-                git clone https://github.com/yourusername/business-card-extraction.git
+                git clone https://github.com/Jai0405/business-card-extraction.git
                 
  Prerequisites:
  
